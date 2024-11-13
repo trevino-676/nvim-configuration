@@ -35,6 +35,9 @@ return {
         'tsx',
         'css',
         'html',
+        'gomod',
+        'gowork',
+        'gosum',
       },
 
       -- Autoinstall languages that are not installed
