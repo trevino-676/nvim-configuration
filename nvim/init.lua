@@ -30,4 +30,5 @@ require('lazy').setup {
     'mfussenegger/nvim-dap',
   },
   require 'plugins.nvim-dap',
+  require 'plugins.lazygit',
 }
